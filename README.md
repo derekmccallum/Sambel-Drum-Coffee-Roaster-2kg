@@ -1,5 +1,5 @@
 # Sambel-Drum-Coffee-Roaster-2kg
-Open-source design for a new 1-2Kg drum roaster.<br>
+Open-source design for a 1-2Kg drum roaster.<br>
 Refer:<br>
 https://homeroasters.org/forum/viewthread.php?thread_id=4802<br>
 https://3dwarehouse.sketchup.com/model/95658df4-883a-404a-b0dc-fe69c1a740fb/Coffee-Roaster<br>
